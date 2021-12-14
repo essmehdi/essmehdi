@@ -1,6 +1,6 @@
 ### Welcome dear, I'm Mehdi
 
-I'm currently a Software Engineering student and web developement.
+I'm currently a Software Engineering student.
 
 I'm interested in projects (but definitely not limited to) that evolves building apps on the web!
 
