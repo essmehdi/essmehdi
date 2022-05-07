@@ -1,4 +1,4 @@
-### Welcome dear, I'm Mehdi
+### Welcome dear
 
 I'm currently a Software Engineering student.
 
