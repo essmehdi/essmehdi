@@ -6,9 +6,12 @@ Software Developer
 
 I'm currently a Software Engineering Student. I've been coding and passionate about Computer Science since high school. After this long time coding, I found myself comfortable with creating different kind of apps either Mobile, Web or Desktop. I made quite a few that you can check on my repos.
 
-*   🌍  I'm based in Casablanca, Morocco
-*   ✉️  You can contact me at [mehdi.essalehi@protonmail.com](mailto:mehdi.essalehi@protonmail.com)
-*   🚀  I'm currently working on [Flow](http://github.com/essmehdi/flow)### Skills<p align="left">
+*   🌍  I'm based in Casablanca, Morocco
+*   ✉️  You can contact me at [mehdi.essalehi@protonmail.com](mailto:mehdi.essalehi@protonmail.com)
+*   🚀  I'm currently working on [Flow](http://github.com/essmehdi/flow)
+
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -32,14 +35,13 @@ I'm currently a Software Engineering Student. I've been coding and passionate ab
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
                     </p>
                     
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/essmehdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mehdi-essalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/mehdiessalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/essmehdi"><img src="https://github-readme-stats.vercel.app/api?username=essmehdi&show_icons=true&hide=stars,prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="essmehdi's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/essmehdi/flow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=essmehdi&repo=flow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/essmehdi/ohiyo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=essmehdi&repo=ohiyo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/essmehdi/messaging-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=essmehdi&repo=messaging-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<p align="left"> <a href="https://www.github.com/essmehdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mehdi-essalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mehdiessalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/essmehdi"><img src="https://github-readme-stats.vercel.app/api?username=essmehdi&show_icons=true&hide=stars,prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="essmehdi's GitHub stats" /></a>
