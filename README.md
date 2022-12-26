@@ -7,7 +7,7 @@ Software Developer
 I'm currently a Software Engineering Student. I've been coding and passionate about Computer Science since high school. After this long time coding, I found myself comfortable with creating different kind of apps either Mobile, Web or Desktop. I made quite a few that you can check on my repos.
 
 *   🌍  I'm based in Casablanca, Morocco
-*   ✉️  You can contact me at [mehdi.essalehi@proton.me](mailto:mehdi.essalehi@proton.me)
+*   ✉️  You can contact me at [mehdi.essalehi@gmail.com](mailto:mehdi.essalehi@gmail.com)
 *   🚀  I'm currently working on [Flow](http://github.com/essmehdi/flow)
 
 ### Skills
