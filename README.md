@@ -40,9 +40,3 @@ I'm currently a Software Engineering Student. I've been coding and passionate ab
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/essmehdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mehdi-essalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mehdiessalehi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-**My GitHub Stats**
-
-<a href="http://www.github.com/essmehdi"><img src="https://github-readme-stats.vercel.app/api?username=essmehdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="essmehdi's GitHub stats" /></a>
